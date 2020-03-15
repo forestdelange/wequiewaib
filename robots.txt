@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fuubakaeg.goncalo.co/sitemap.xml
